@@ -2977,9 +2977,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pdfjs-dist@npm:4.6.82":
+"pdfjs-dist@https://github.com/Matts/pdfjs-dist.git#head=master":
   version: 4.6.82
-  resolution: "pdfjs-dist@npm:4.6.82"
+  resolution: "pdfjs-dist@https://github.com/Matts/pdfjs-dist.git#head=master"
   dependencies:
     canvas: "npm:^2.11.2"
     path2d: "npm:^0.2.1"
@@ -2988,22 +2988,6 @@ __metadata:
       optional: true
     path2d:
       optional: true
-  checksum: 10c0/8dc12c88757e24054f1dbcf491f2a87d285694a76690e7c319af9009fa49e604bdee67e199aa150e71cd797edd2c9447095b7e23727ccaef29da67e51a914529
-  languageName: node
-  linkType: hard
-
-"pdfjs-dist@patch:pdfjs-dist@npm:4.6.82#.yarn/patches/pdfjs-dist-npm-4.6.82-35a0e70ced.patch::locator=react-pdf-monorepo%40workspace%3A.":
-  version: 4.6.82
-  resolution: "pdfjs-dist@patch:pdfjs-dist@npm%3A4.6.82#.yarn/patches/pdfjs-dist-npm-4.6.82-35a0e70ced.patch::version=4.6.82&hash=d78cd3&locator=react-pdf-monorepo%40workspace%3A."
-  dependencies:
-    canvas: "npm:^2.11.2"
-    path2d: "npm:^0.2.1"
-  dependenciesMeta:
-    canvas:
-      optional: true
-    path2d:
-      optional: true
-  checksum: 10c0/56cdfd26c62c0700e6d9ce7895e433cdeb5917eb1d277c7f72643ded93370875f49c9e40d48c85be9d29d3db626defb524371017f3a7eff31077b70a84d47c9e
   languageName: node
   linkType: hard
 

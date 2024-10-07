@@ -21,7 +21,7 @@
     "husky": "^9.0.0"
   },
   "resolutions": {
-    "pdfjs-dist": "patch:pdfjs-dist@npm:4.6.82#.yarn/patches/pdfjs-dist-npm-4.6.82-35a0e70ced.patch"
+    "pdfjs-dist": "github:Matts/pdfjs-dist"
   },
   "packageManager": "yarn@4.3.1"
 }
